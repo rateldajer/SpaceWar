@@ -15,6 +15,8 @@
 - state is fully observable by everyone
 - ability to load in policies from other players to train against easily, file format for policy as a function somehow. 
 - Remove Trademarks: if there are any trademark names of any existing Science Fiction property, they should be anonymized and altered. It is not essential to the game dynamics that the different ship types need to be from any particular show or movie.
+  - In fact, according to the statement in MageKing17's readme (see readme_old.md) the species names currently used are his creation, so we should create a new set of characters entirely and change the dynamics somewhat. We want the same general level of complexity of the game but it can be sligthly different.
+  - [ ] we will try to contact the original developer to see if they have any issues with this project
 - state
   - `location` (could be (x,y)coord or cellid) of `agent`
   - `location` of other players, usually 3 others (`npc1`,`npc2`,`npc3`), one at each corner
