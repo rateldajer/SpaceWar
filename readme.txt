@@ -1,6 +1,6 @@
 # SpaceWar reborn!
-- see readme_org.md for the README file for the original code from MageKin17.
-- see crowley-requirements.md for the plan for the current project.
+- see readme_old.md for the README file for the original code from MageKin17.
+- see requirements_new.md for the plan for the current project.
 
 ## Purpose and Statement on Previous Intellectual Property
 This repository is of Prof. Mark Crowley and his Machine Learning research lab at the University of Waterloo (https://markcrowley.ca).
